@@ -4,7 +4,7 @@ This might help one to understand a simple django app and django-tinyMCE widget.
 
 ## Getting started
 
-git clone [https://github.com/MebatsionSa/django-TinyMce.git]
+git clone https://github.com/MebatsionSa/django-TinyMce.git
 
 ## Installing
 Have django 2.2.9 installed on your machine. 
